@@ -9,7 +9,7 @@
 - Peter - Jiayao Wang
 
 # Code Link(Eg: Our group design 5 models with each other. Model A have the best performance.)
-- Model A: https://colab.research.google.com/drive/1e-A3BwW98WaGE25rWGMXG46FNcsz-ZOx?usp=sharing
+- Model A: https://colab.research.google.com/drive/1BGr-I9ULsSRwskShlhKy-SJii8nk6Ldg?usp=sharing
 
 - Model B: https://colab.research.google.com/drive/1W74si7vfj8G_-ypRapuiq5OZLQVbyweA?usp=sharing#scrollTo=DR3EGVdp5MHZ
 
